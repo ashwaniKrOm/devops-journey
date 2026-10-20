@@ -23,5 +23,6 @@ shell or CLI looks like this :-
 To check your shell type, use **ps**
 <img width="248" height="85" alt="image" src="https://github.com/user-attachments/assets/d6e33075-38e3-48d1-9f31-868343bafe43" />
 
-## Summary : shell is a program that provides CLI, bash is just a type of shell that widely used in Linux.
+## Summary :- 
+shell is a program that provides CLI, bash is just a type of shell that widely used in Linux.
 
