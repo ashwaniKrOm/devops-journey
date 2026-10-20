@@ -16,8 +16,8 @@ shell or CLI looks like this :-
 <img width="660" height="461" alt="image" src="https://github.com/user-attachments/assets/08993aff-b027-446b-bbff-b1bcc3d81cde" />
 
 - ashwani@ashwani-PC : shell prompt where user will interact
-- $ : means waiting for command
-- # : if shell is running as root, prompt will change as #
+- '$' : means waiting for command
+- '#' : if shell is running as root, prompt will change as '#'
 
 ### Shell Types : Korn shell(ksh), C shell(csh), Z shell(zsh), Bash
 To check your shell type, use **ps**
