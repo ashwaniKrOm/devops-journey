@@ -1,0 +1,13 @@
+## Few Linux Distributions :
+- Ubuntu : user-friendly & secure
+- CentOS : known for stabilty
+- Fedora : graphical tools features
+- Debian : Highly stable, ideal for servers
+- RHEL (Red Hat Enterprise Linux) : An enterprise grade platform known for stability, speed, professional.
+- openSUSE : stable and versatile choice for both home and business
+- Manjaro : simplifies hardware support and driver installation.
+- Elementary OS : minimalist design and the custom Pantheon desktop environment
+- Zorin OS : featuring windows like interface
+- Kali Linux : security specialized
+- Arch Linux : highly customizable for advanced users who want complete control over system
+- Linux Mint : Ideal for beginner, windows like UI
